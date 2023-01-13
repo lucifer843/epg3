@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.21 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com" "sky.com.ph" "claro.com"> 
+<channels>
+  <channel id="Movistar Acción">
+    <url>m.movistarplus.es</url>
+    <display-name lang="es">M+ ACCIÓN HD</display-name>
+  </channel>
+  <channel id="DISNEY CH HD">
+    <url>http://www.plus.es</url>
+    <display-name lang="es">DISNEY CH HD</display-name>
+  </channel>
+  <channel id="LALIGATVBAR3">
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA3.png" />
+    <url>http://www.movistarplus.es</url>
+    <display-name lang="es">LALIGATVBAR3</display-name>
+  </channel>
+  <channel id="DAZN 2">
+    <url>http://www.plus.es</url>
+    <display-name lang="es">DAZN 2</display-name>
+  </channel>
+  <channel id="DISNEY JR">
+    <url>http://www.plus.es</url>
+    <display-name lang="es">DISNEY JR</display-name>
+  </channel>
+  <channel id="Movistar Estrenos">
+    <url>m.movistarplus.es</url>
+    <display-name lang="es">M+ ESTRENOSHD</display-name>
+  </channel>
+    <channel id="WIN SPORTS">
+<url>claro.com.co</url>
+<display-name lang="es">WIN SPORTS</display-name>
+<channel id="CLARO SPORTS COLOMBIA">
+<url>claro.com.co</url>
+<display-name lang="es">CLARO SPORTS COLOMBIA</display-name>
+<channel id="CLARO SPORTS COLOMBIA">
+<url>claro.com.co</url>
+<display-name lang="es">CLARO SPORTS</display-name>
+  </channels>
+</site>
