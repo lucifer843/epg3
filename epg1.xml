@@ -1,6 +1,7 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.21 -- Jan van Straaten" site="sky.com.ph" "claro.com"> <channels>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.21 -- Jan van Straaten" site="sky.com.ph" "claro.com"> 
+<channels>
 <channel update="i" site="directv.com.co" site_id="3082" xmltv_id="FOX Sports 2(FXS2)(608)">FOX Sports 2(FXS2)(608)</channel> 
 <channel update="i" site="directv.com.co" site_id="3081" xmltv_id="FOX Sports 3(FXS3)(609)">FOX Sports 3(FXS3)(609)</channel> 
 <channel update="i" site="directv.com.co" site_id="4049" xmltv_id="DIRECTV Sports (COL)(DTSC)(610)">DIRECTV Sports (COL)(DTSC)(610)</channel> 
