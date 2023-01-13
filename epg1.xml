@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.21 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com" "sky.com.ph" "claro.com"> 
 <channels>
-  <channel id="Movistar Acción">
-    <url>m.movistarplus.es</url>
-    <display-name lang="es">M+ ACCIÓN HD</display-name>
-  </channel>
+  <channel id="M+ ACCIÓN HD">
+    <url>http://www.plus.es</url>
+    <display-name lang="es">M+ ACCIÓN HD</display-name>
+  </channel>
+   <channel id="M+ESTRENOSHD">
+    <url>http://www.plus.es</url>
+    <display-name lang="es">M+ESTRENOSHD</display-name>
+  </channel>
+<channel id="M+ DRAMA HD">
+    <url>http://www.plus.es</url>
+    <display-name lang="es">M+ DRAMA HD</display-name>
+  <channel id="FOX HD">
+    <url>http://www.plus.es</url>
+    <display-name lang="es">FOX HD</display-name>
+  </channel>
+  </channel>
+  <channel id="M+ ESTRENOS 2">
+    <url>http://www.plus.es</url>
+    <display-name lang="es">M+ ESTRENOS 2</display-name>
   <channel id="DISNEY CH HD">
     <url>http://www.plus.es</url>
     <display-name lang="es">DISNEY CH HD</display-name>
@@ -21,10 +36,6 @@
   <channel id="DISNEY JR">
     <url>http://www.plus.es</url>
     <display-name lang="es">DISNEY JR</display-name>
-  </channel>
-  <channel id="Movistar Estrenos">
-    <url>m.movistarplus.es</url>
-    <display-name lang="es">M+ ESTRENOSHD</display-name>
   </channel>
     <channel id="WIN SPORTS">
 <url>claro.com.co</url>
